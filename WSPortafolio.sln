@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSPorta", "WSPorta\WSPorta.csproj", "{C3856D37-4D45-415C-A2D2-5AEDFD18415D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3856D37-4D45-415C-A2D2-5AEDFD18415D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3856D37-4D45-415C-A2D2-5AEDFD18415D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3856D37-4D45-415C-A2D2-5AEDFD18415D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3856D37-4D45-415C-A2D2-5AEDFD18415D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44552B4F-9115-444E-8FCE-B587E886C128}
+	EndGlobalSection
+EndGlobal
